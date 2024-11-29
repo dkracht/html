@@ -1,0 +1,1 @@
+document.write("Dies ist ein mit JS erzeugter Text")
